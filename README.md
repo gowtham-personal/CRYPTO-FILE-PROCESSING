@@ -2,10 +2,13 @@
 
 ## Available Functionalities
 
-Given no parameters, return the latest portfolio value per token in USD
-Given a token, return the latest portfolio value for that token in USD
-Given a date, return the portfolio value per token in USD on that date
-Given a date and a token, return the portfolio value of that token in USD on that date
+1. Given no parameters, return the latest portfolio value per token in USD
+
+2. Given a token, return the latest portfolio value for that token in USD
+
+3. Given a date, return the portfolio value per token in USD on that date
+
+4. Given a date and a token, return the portfolio value of that token in USD on that date
 
 ## Tech Stack Used
 
